@@ -1,4 +1,4 @@
-package com.inerview.dp.builder;
+package com.interview.dp.builder;
 
 public class CoffeeBuilder {
 

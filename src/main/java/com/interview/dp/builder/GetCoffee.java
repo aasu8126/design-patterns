@@ -1,6 +1,6 @@
-package com.inerview.dp.builder;
+package com.interview.dp.builder;
 
-import com.inerview.dp.builder.CoffeeBuilder.Builder;
+import com.interview.dp.builder.CoffeeBuilder.Builder;
 
 public class GetCoffee {
 
